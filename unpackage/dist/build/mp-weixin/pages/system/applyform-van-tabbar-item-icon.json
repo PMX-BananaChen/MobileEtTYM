@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "applyform-van-tabbar-item-icon": "/pages/system/applyform-van-tabbar-item-icon"
+  }
+}

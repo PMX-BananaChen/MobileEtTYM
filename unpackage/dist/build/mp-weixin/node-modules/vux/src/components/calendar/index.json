@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "inline-calendar": "/node-modules/vux/src/components/inline-calendar/index",
+    "popup": "/node-modules/vux/src/components/popup/index",
+    "popup-header": "/node-modules/vux/src/components/popup-header/index",
+    "cell": "/node-modules/vux/src/components/cell/index"
+  }
+}

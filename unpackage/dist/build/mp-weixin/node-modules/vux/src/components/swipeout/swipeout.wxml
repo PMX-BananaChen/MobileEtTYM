@@ -1,0 +1,1 @@
+<view class="vux-swipeout _div"><slot></slot></view>

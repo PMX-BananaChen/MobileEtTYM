@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['touchstart',[['onTouchstart',['$event']]]]]}}" style="{{'background-color:'+(backgroundColor)+';'+('width:'+(width+'px')+';')+('height:'+(height+'px')+';')}}" bindtouchstart="__e" class="_div"><canvas class="noselect vue-ref" height="260" data-ref="chart"></canvas><slot></slot></view>

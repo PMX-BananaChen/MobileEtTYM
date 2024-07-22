@@ -1,0 +1,1 @@
+<button class="{{['weui-btn',classes]}}" style="{{(buttonStyle)}}" disabled="{{disabled}}" type="{{actionType}}" data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" bindtap="__e"><block wx:if="{{showLoading}}"><view class="weui-loading _i"></view></block><block wx:if="{{$slots.default}}"><slot></slot></block><block wx:else>{{text}}</block></button>

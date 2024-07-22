@@ -1,0 +1,1 @@
+<view class="vux-divider _p"><slot></slot></view>

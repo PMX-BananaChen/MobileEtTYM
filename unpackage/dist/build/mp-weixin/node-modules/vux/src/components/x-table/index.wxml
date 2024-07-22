@@ -1,0 +1,1 @@
+<view class="{{['vux-table','_table',(fullBordered)?'vux-table-bordered':'',(!cellBordered)?'vux-table-no-cell-bordered':'',(!contentBordered)?'vux-table-no-content-bordered':'']}}"><slot></slot></view>

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "popup-picker": "/node-modules/vux/src/components/popup-picker/index"
+  }
+}

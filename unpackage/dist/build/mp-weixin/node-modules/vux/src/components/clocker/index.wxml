@@ -1,0 +1,1 @@
+<view style="display:inline-block;" class="_div"><block wx:if="{{showTimeString}}"><label class="_span">{{timeString}}</label></block><view class="vux-clocker-tpl _div"><slot></slot></view></view>

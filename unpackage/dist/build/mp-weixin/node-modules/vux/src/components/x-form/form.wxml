@@ -1,0 +1,1 @@
+<form data-ref="form" class="vux-form vue-ref"><slot></slot></form>

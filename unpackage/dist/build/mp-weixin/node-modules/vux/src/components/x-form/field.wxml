@@ -1,0 +1,1 @@
+<view class="{{['vux-form-field','_div',(isRequired)?'is-required':'',(validateState==='success')?'is-success':'',(validateState==='error')?'is-error':'']}}"><slot></slot></view>

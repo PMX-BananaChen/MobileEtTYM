@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "popover": "/node-modules/vux/src/components/popover/index"
+  }
+}

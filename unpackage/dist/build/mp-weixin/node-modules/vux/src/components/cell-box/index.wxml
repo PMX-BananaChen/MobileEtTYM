@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="{{['vux-cell-box','weui-cell','_div',className]}}" style="{{(style)}}" bindtap="__e"><slot></slot></view>

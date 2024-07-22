@@ -1,0 +1,1 @@
+<view class="{{['_i',className,isMsg?'weui-icon_msg':'']}}"></view>

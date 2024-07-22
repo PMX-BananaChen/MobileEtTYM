@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "group": "/node-modules/vux/src/components/group/index",
+    "inline-desc": "/node-modules/vux/src/components/inline-desc/index",
+    "icon": "/node-modules/vux/src/components/icon/index"
+  }
+}

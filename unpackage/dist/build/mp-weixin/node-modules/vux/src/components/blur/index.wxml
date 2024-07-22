@@ -1,0 +1,1 @@
+<view style="{{'height:'+(height+'px')+';'+('position:'+('relative')+';')+('overflow:'+('hidden')+';')}}" class="_div"><slot></slot></view>

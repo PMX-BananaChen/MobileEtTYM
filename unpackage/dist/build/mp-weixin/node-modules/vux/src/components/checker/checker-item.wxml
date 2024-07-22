@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['select',['$event']]]]]}}" class="{{['vux-checker-item','_div',classNames]}}" bindtap="__e"><slot></slot></view>

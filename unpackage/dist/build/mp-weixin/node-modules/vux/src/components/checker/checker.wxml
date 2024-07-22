@@ -1,0 +1,1 @@
+<view class="vux-checker-box _div"><slot></slot></view>

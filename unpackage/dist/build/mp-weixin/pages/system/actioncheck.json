@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "actioncheck-van-tabbar-item-icon": "/pages/system/actioncheck-van-tabbar-item-icon"
+  }
+}

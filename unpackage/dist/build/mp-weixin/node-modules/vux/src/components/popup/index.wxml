@@ -1,0 +1,1 @@
+<transition vue-id="1d5dfafa-1" name="{{'vux-popup-animate-'+position}}" bind:__l="__l" vue-slots="{{['default']}}"><view hidden="{{!(show&&!initialShow)}}" class="{{['vux-popup-dialog','_div','vux-popup-'+position,show?'vux-popup-show':'']}}" style="{{(styles)}}"><block wx:if="{{shouldRenderBody}}"><slot></slot></block></view></transition>

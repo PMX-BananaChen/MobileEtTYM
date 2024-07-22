@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "icon": "/node-modules/vux/src/components/icon/index"
+  }
+}

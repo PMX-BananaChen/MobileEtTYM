@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "flexbox": "/node-modules/vux/src/components/flexbox/index",
+    "flexbox-item": "/node-modules/vux/src/components/flexbox/index"
+  }
+}

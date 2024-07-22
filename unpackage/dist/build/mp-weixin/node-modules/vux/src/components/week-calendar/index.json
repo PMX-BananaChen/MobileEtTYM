@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "swiper": "/node-modules/vux/src/components/swiper/index",
+    "swiper-item": "/node-modules/vux/src/components/swiper/index",
+    "flexbox": "/node-modules/vux/src/components/flexbox/index",
+    "flexbox-item": "/node-modules/vux/src/components/flexbox/index"
+  }
+}

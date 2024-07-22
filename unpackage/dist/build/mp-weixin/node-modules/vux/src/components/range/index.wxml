@@ -1,0 +1,1 @@
+<view class="vux-range-input-box _div" style="position:relative;margin-right:30px;margin-left:50px;"><input data-event-opts="{{[['input',[['__set_model',['','currentValue','$event',['number']]]]],['blur',[['$forceUpdate']]]]}}" class="vux-range-input" value="{{currentValue}}" bindinput="__e" bindblur="__e"/></view>

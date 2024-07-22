@@ -1,0 +1,15 @@
+{
+  "componentGenerics": {
+    "scoped-slots-title": true
+  },
+  "component": true,
+  "usingComponents": {
+    "picker": "/node-modules/vux/src/components/picker/index",
+    "cell": "/node-modules/vux/src/components/cell/index",
+    "popup": "/node-modules/vux/src/components/popup/index",
+    "popup-header": "/node-modules/vux/src/components/popup-header/index",
+    "flexbox": "/node-modules/vux/src/components/flexbox/index",
+    "flexbox-item": "/node-modules/vux/src/components/flexbox/index",
+    "inline-desc": "/node-modules/vux/src/components/inline-desc/index"
+  }
+}

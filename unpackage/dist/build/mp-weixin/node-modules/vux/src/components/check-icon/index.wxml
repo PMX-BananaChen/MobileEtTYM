@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['updateValue',['$event']]]]]}}" class="vux-check-icon _div" bindtap="__e"><icon hidden="{{!(type==='default'&&value)}}" type="success"></icon><icon hidden="{{!(type==='plain'&&value)}}" type="success_circle"></icon><icon hidden="{{!(!value)}}" type="circle"></icon><label class="_span"><slot></slot></label></view>

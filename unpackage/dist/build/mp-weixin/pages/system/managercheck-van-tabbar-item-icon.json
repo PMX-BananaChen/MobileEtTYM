@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "managercheck-van-tabbar-item-icon": "/pages/system/managercheck-van-tabbar-item-icon"
+  }
+}

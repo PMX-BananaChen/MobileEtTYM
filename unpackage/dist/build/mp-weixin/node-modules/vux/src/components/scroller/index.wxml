@@ -1,0 +1,1 @@
+<view style="{{(styles)}}" class="_div"><view class="xs-container _div"><slot></slot><slot name="pulldown"></slot><slot name="pullup"></slot></view></view>

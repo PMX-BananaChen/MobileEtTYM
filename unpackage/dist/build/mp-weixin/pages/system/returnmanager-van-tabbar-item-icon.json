@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "returnmanager-van-tabbar-item-icon": "/pages/system/returnmanager-van-tabbar-item-icon"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="zy_media _div"><video poster="{{cover}}" data-config="{{$root.a0}}"><audio src="{{video}}" type="video/mp4" class="_source"></audio>您的浏览器不支持HTML5视频</video></view>

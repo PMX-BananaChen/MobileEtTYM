@@ -1,0 +1,1 @@
+<input class="inline-x-switch weui-switch" type="checkbox" disabled="{{disabled}}" data-event-opts="{{[['change',[['e0',['$event']]]]]}}" data-event-params="{{({Array,$$a,$$v,$$el,$$i,$$c})}}" checked="{{$root.g0?_i(currentValue,null)>-1:currentValue}}" bindchange="__e"/>

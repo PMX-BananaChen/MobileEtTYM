@@ -1,0 +1,7 @@
+{
+  "componentGenerics": {
+    "scoped-slots-each-day": true
+  },
+  "component": true,
+  "usingComponents": {}
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "returnapplydetail-van-tabbar-item-icon": "/pages/system/returnapplydetail-van-tabbar-item-icon"
+  }
+}

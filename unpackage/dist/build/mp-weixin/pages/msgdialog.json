@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "msgdialog-van-tabbar-item-icon": "/pages/msgdialog-van-tabbar-item-icon"
+  },
+  "component": true
+}

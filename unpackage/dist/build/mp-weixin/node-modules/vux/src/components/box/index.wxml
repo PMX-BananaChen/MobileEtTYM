@@ -1,0 +1,1 @@
+<view style="{{'margin:'+(gap)+';'}}" class="_div"><slot></slot></view>

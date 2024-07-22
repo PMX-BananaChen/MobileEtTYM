@@ -1,0 +1,1 @@
+<view class="{{['weui-wepay-flow__li','_div',(isDone)?'weui-wepay-flow__li_done':'']}}"><view class="weui-wepay-flow__state _div">{{state}}</view><view class="_p"><block wx:if="{{$slots.title}}"><slot name="title"></slot></block><block wx:else>{{title}}</block></view></view>

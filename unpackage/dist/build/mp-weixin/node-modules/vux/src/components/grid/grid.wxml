@@ -1,0 +1,1 @@
+<view class="{{['weui-grids','_div',(!showLrBorders)?'vux-grid-no-lr-borders':'']}}"><slot></slot></view>

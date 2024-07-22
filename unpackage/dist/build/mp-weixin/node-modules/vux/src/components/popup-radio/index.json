@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "popup": "/node-modules/vux/src/components/popup/index",
+    "radio": "/node-modules/vux/src/components/radio/index",
+    "cell": "/node-modules/vux/src/components/cell/index"
+  }
+}

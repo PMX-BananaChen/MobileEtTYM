@@ -1,0 +1,1 @@
+<label class="{{['vux-spinner','_span',className]}}" style="{{(styles)}}"></label>

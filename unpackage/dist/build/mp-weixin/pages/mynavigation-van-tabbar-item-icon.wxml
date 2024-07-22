@@ -1,0 +1,1 @@
+<image style="width:20px;height:20px;" src="{{props.active?item.active:item.normal}}" class="_img data-v-2ba9b0dc"></image>

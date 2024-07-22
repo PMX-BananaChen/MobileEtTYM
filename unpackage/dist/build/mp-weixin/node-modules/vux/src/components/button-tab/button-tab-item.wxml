@@ -1,0 +1,1 @@
+<navigator class="{{['vux-button-tab-item','_a',classes]}}" style="{{(style)}}" href="javascript:" data-event-opts="{{[['tap',[['onItemClick',['$event']]]]]}}" bindtap="__e"><slot></slot></navigator>

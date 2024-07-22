@@ -1,0 +1,1 @@
+<label class="{{['_span','vux-badge',[(typeof text==='undefined')?'vux-badge-dot':'',(typeof text!=='undefined'&&$root.g0.length===1)?'vux-badge-single':'']]}}">{{text}}</label>

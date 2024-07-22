@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "waitcheckeddetail-van-tabbar-item-icon": "/pages/system/waitcheckeddetail-van-tabbar-item-icon"
+  }
+}

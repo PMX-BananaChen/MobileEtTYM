@@ -1,0 +1,1 @@
+<view class="{{['weui-wepay-flow__line','_div',classes]}}" style="{{(styles)}}"><view class="weui-wepay-flow__process _div" style="{{'width:'+($root.m0)+';'}}"></view><block wx:if="{{tip}}"><view class="_div" style="{{'left:'+($root.m1)+';'}}">{{tip}}</view></block></view>

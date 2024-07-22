@@ -1,0 +1,1 @@
+<view class="{{['vux-flexbox','_div',(orient==='vertical')?'vux-flex-col':'',(orient==='horizontal')?'vux-flex-row':'']}}" style="{{(styles)}}"><slot></slot></view>

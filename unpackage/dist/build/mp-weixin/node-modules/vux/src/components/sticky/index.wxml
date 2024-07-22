@@ -1,0 +1,1 @@
+<view class="vux-sticky-box _div"><slot></slot></view>

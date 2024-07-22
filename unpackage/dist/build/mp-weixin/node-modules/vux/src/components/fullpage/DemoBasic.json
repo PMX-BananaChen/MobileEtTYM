@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "fullpage": "/node-modules/vux/src/components/fullpage/index"
+  }
+}

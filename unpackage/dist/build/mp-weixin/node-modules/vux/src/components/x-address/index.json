@@ -1,0 +1,9 @@
+{
+  "componentGenerics": {
+    "scoped-slots-title": true
+  },
+  "component": true,
+  "usingComponents": {
+    "popup-picker": "/node-modules/vux/src/components/popup-picker/index"
+  }
+}

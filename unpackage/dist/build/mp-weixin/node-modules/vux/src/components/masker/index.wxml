@@ -1,0 +1,1 @@
+<view class="vux-masker-box _div"><slot></slot><view class="{{['vux-masker','_div',(fullscreen)?'vux-masker-fullscreen':'']}}" style="{{(style)}}"><slot name="content"></slot></view></view>

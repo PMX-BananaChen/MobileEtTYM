@@ -1,0 +1,1 @@
+<view class="vux-marquee _div" style="{{'height:'+(height+'px')+';'}}"><view data-ref="box" class="vux-marquee-box _ul vue-ref" style="{{'transform:'+('translate3d(0,'+currenTranslateY+'px,0)')+';'+('transition:'+('transform '+(noAnimate?0:duration)+'ms')+';')}}"><slot></slot></view></view>

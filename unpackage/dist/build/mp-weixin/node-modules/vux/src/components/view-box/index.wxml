@@ -1,0 +1,1 @@
+<view class="weui-tab _div"><slot name="header"></slot><view class="weui-tab__panel vux-fix-safari-overflow-scrolling _div vue-ref" style="{{'padding-top:'+(bodyPaddingTop)+';'+('padding-bottom:'+(bodyPaddingBottom)+';')}}" id="vux_view_box_body" data-ref="viewBoxBody"><slot></slot></view><slot name="bottom"></slot></view>

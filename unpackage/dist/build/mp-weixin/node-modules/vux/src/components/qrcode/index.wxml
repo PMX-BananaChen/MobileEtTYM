@@ -1,0 +1,1 @@
+<view class="_div"><canvas class="vue-ref" hidden="{{!(type==='canvas')}}" style="{{'height:'+(size+'px')+';'+('width:'+(size+'px')+';')}}" height="{{size}}" width="{{size}}" data-ref="canvas"></canvas><block wx:if="{{type==='img'}}"><image style="{{'height:'+(size+'px')+';'+('width:'+(size+'px')+';')}}" src="{{imgData}}" class="_img"></image></block></view>

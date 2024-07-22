@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tip": "/node-modules/vux/src/components/tip/index",
+    "icon": "/node-modules/vux/src/components/icon/index",
+    "inline-desc": "/node-modules/vux/src/components/inline-desc/index"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="{{['vux-loadmore','weui-loadmore','_div',(!showLoading)?'weui-loadmore_line':'',(!showLoading&&!tip)?'weui-loadmore_dot':'']}}"><block wx:if="{{showLoading}}"><view class="weui-loading _i"></view></block><label hidden="{{!(tip||!showLoading)}}" class="weui-loadmore__tips _span">{{tip}}</label></view>

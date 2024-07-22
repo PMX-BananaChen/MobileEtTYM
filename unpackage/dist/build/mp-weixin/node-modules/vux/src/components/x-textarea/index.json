@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "inline-desc": "/node-modules/vux/src/components/inline-desc/index"
+  }
+}

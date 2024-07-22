@@ -1,0 +1,31 @@
+{
+  "name": "MobileEtTYM",
+  "version": "1.0.0",
+  "description": "vant weapp是一套优秀的微信小程序组件，其基于微信的自定义组件原理实现。无法在H5及其他小程序平台运行。",
+  "main": "main.js",
+  "dependencies": {
+    "async-validator": "^4.0.7",
+    "axios": "^0.26.0",
+    "element-ui": "2.15.6",
+    "js-cookie": "^2.2.1",
+    "nprogress": "^0.2.0",
+    "qs": "^6.10.3",
+    "save": "^2.4.0",
+    "vant": "^2.12.21",
+    "vue": "2.6.12",
+    "vue-i18n": "^9.1.9",
+    "vuex-i18n": "^1.13.1",
+    "vux": "^2.11.1"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.13.3"
+  },
+  "scripts": {
+	"dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "node build/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

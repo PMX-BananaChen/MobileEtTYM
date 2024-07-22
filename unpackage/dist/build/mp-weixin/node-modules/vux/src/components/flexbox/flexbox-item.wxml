@@ -1,0 +1,1 @@
+<view class="vux-flexbox-item _div" style="{{(style)}}"><slot></slot></view>

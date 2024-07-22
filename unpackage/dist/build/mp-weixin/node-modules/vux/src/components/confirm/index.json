@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "x-dialog": "/node-modules/vux/src/components/x-dialog/index"
+  }
+}

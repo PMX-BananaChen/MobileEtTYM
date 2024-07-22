@@ -1,0 +1,1 @@
+<label class="vux-label-desc _span"><slot></slot></label>
